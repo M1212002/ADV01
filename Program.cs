@@ -404,7 +404,9 @@
 
 #region Q13
 // the default keyword is used in generics to return the default value of a type T.
+#endregion
 
+#region Q14
 //public class SafeList<T>
 //{
 //    private List<T> _items = new List<T>();
